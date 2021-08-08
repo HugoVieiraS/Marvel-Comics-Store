@@ -1,0 +1,28 @@
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.deps.json
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Common.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Common.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.csprojAssemblyReference.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.AssemblyInfoInputs.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.AssemblyInfo.cs
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.csproj.CoreCompileInputs.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.csproj.CopyComplete
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.deps.json
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Common.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Common.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.csprojAssemblyReference.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.AssemblyInfoInputs.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.AssemblyInfo.cs
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.csproj.CoreCompileInputs.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.csproj.CopyComplete
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.ApiCaller\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.ApiCaller.pdb

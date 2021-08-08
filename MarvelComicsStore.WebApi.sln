@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvelComicsStore", "MarvelComicsStore\MarvelComicsStore.csproj", "{FD8C61A0-3BB8-4502-A842-49973D065645}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{D2392A78-0DC8-4DAE-ADDF-AD3015F571B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{C183F74E-69ED-4449-8CAC-53489F547566}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{8608D08A-112D-4130-A125-76CA132A3D60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{0206D30D-7052-4792-8FA8-5D66C55A5128}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvelComicsStore.Domain", "MarvelComicsStore.Domain\MarvelComicsStore.Domain.csproj", "{A8066163-B4EF-4531-A31F-AB1773FE34D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvelComicsStore.Service", "MarvelComicsStore.Service\MarvelComicsStore.Service.csproj", "{40E0F902-80BE-4F56-8007-3929B3F43EC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrossCutting", "CrossCutting", "{F3A9E6A8-A076-42CD-8E40-F1EA19979609}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{1FEDAD3D-737D-4A11-8218-26FFA0695B46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvelComicsStore.Infrastructure.Data", "MarvelComicsStore.Infrastructure.Data\MarvelComicsStore.Infrastructure.Data.csproj", "{4F6C52D0-8BA5-42BC-A184-8C624E4E6A78}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvelComicsStore.Infrastructure.ApiCaller", "MarvelComicsStore.Infrastructure.ApiCaller\MarvelComicsStore.Infrastructure.ApiCaller.csproj", "{B042F3C6-EADB-409B-BC37-967FC5508860}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ioc", "Ioc", "{D8203675-C5C4-4DB0-AC01-5423FD5BCB19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvelComicsStore.Infrastructure.Ioc", "MarvelComicsStore.Infrastructure.Ioc\MarvelComicsStore.Infrastructure.Ioc.csproj", "{8AB14E38-027A-42E9-AECD-C5A3E9E1765E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{9D131672-A633-4AB1-862F-02575C4B148E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvelComicsStore.Common", "MarvelComicsStore.Common\MarvelComicsStore.Common.csproj", "{790A1C82-07A1-41EC-8C3B-E4F19E829D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD8C61A0-3BB8-4502-A842-49973D065645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8C61A0-3BB8-4502-A842-49973D065645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8C61A0-3BB8-4502-A842-49973D065645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8C61A0-3BB8-4502-A842-49973D065645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8066163-B4EF-4531-A31F-AB1773FE34D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8066163-B4EF-4531-A31F-AB1773FE34D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8066163-B4EF-4531-A31F-AB1773FE34D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8066163-B4EF-4531-A31F-AB1773FE34D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E0F902-80BE-4F56-8007-3929B3F43EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E0F902-80BE-4F56-8007-3929B3F43EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E0F902-80BE-4F56-8007-3929B3F43EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E0F902-80BE-4F56-8007-3929B3F43EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6C52D0-8BA5-42BC-A184-8C624E4E6A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6C52D0-8BA5-42BC-A184-8C624E4E6A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6C52D0-8BA5-42BC-A184-8C624E4E6A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6C52D0-8BA5-42BC-A184-8C624E4E6A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B042F3C6-EADB-409B-BC37-967FC5508860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B042F3C6-EADB-409B-BC37-967FC5508860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B042F3C6-EADB-409B-BC37-967FC5508860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B042F3C6-EADB-409B-BC37-967FC5508860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB14E38-027A-42E9-AECD-C5A3E9E1765E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB14E38-027A-42E9-AECD-C5A3E9E1765E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB14E38-027A-42E9-AECD-C5A3E9E1765E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB14E38-027A-42E9-AECD-C5A3E9E1765E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{790A1C82-07A1-41EC-8C3B-E4F19E829D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790A1C82-07A1-41EC-8C3B-E4F19E829D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790A1C82-07A1-41EC-8C3B-E4F19E829D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790A1C82-07A1-41EC-8C3B-E4F19E829D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FD8C61A0-3BB8-4502-A842-49973D065645} = {D2392A78-0DC8-4DAE-ADDF-AD3015F571B8}
+		{A8066163-B4EF-4531-A31F-AB1773FE34D3} = {C183F74E-69ED-4449-8CAC-53489F547566}
+		{40E0F902-80BE-4F56-8007-3929B3F43EC9} = {0206D30D-7052-4792-8FA8-5D66C55A5128}
+		{F3A9E6A8-A076-42CD-8E40-F1EA19979609} = {8608D08A-112D-4130-A125-76CA132A3D60}
+		{1FEDAD3D-737D-4A11-8218-26FFA0695B46} = {8608D08A-112D-4130-A125-76CA132A3D60}
+		{4F6C52D0-8BA5-42BC-A184-8C624E4E6A78} = {1FEDAD3D-737D-4A11-8218-26FFA0695B46}
+		{B042F3C6-EADB-409B-BC37-967FC5508860} = {F3A9E6A8-A076-42CD-8E40-F1EA19979609}
+		{D8203675-C5C4-4DB0-AC01-5423FD5BCB19} = {8608D08A-112D-4130-A125-76CA132A3D60}
+		{8AB14E38-027A-42E9-AECD-C5A3E9E1765E} = {D8203675-C5C4-4DB0-AC01-5423FD5BCB19}
+		{790A1C82-07A1-41EC-8C3B-E4F19E829D5E} = {9D131672-A633-4AB1-862F-02575C4B148E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25FB90A4-DB8A-4088-A2DA-008C03F25D00}
+	EndGlobalSection
+EndGlobal

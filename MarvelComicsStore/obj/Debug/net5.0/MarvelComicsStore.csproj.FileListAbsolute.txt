@@ -1,0 +1,129 @@
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\appsettings.Development.json
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\appsettings.json
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.exe
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.deps.json
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.runtimeconfig.json
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.runtimeconfig.dev.json
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.dll
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\ref\MarvelComicsStore.dll
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.pdb
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csprojAssemblyReference.cache
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.AssemblyInfoInputs.cache
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.AssemblyInfo.cs
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csproj.CoreCompileInputs.cache
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\staticwebassets\MarvelComicsStore.StaticWebAssets.Manifest.cache
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\staticwebassets\MarvelComicsStore.StaticWebAssets.xml
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\scopedcss\bundle\MarvelComicsStore.styles.css
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.RazorTargetAssemblyInfo.cache
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csproj.CopyComplete
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.dll
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\ref\MarvelComicsStore.dll
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.pdb
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.genruntimeconfig.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\appsettings.Development.json
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\appsettings.json
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.exe
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.deps.json
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.runtimeconfig.json
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.runtimeconfig.dev.json
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\ref\MarvelComicsStore.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\AutoMapper.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MySqlConnector.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Common.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Domain.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.ApiCaller.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.Data.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.Ioc.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Service.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Domain.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.Ioc.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Service.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Common.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.ApiCaller.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.Data.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csprojAssemblyReference.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.AssemblyInfoInputs.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.AssemblyInfo.cs
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csproj.CoreCompileInputs.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\staticwebassets\MarvelComicsStore.StaticWebAssets.Manifest.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\staticwebassets\MarvelComicsStore.StaticWebAssets.xml
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\scopedcss\bundle\MarvelComicsStore.styles.css
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.RazorTargetAssemblyInfo.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csproj.CopyComplete
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\ref\MarvelComicsStore.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.genruntimeconfig.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\appsettings.Development.json
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\appsettings.json
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.exe
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.deps.json
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.runtimeconfig.json
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.runtimeconfig.dev.json
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\ref\MarvelComicsStore.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\AutoMapper.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MySqlConnector.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Common.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Domain.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.ApiCaller.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.Data.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.Ioc.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Service.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Domain.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.Ioc.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Service.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Common.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.ApiCaller.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.Data.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csprojAssemblyReference.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.AssemblyInfoInputs.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.AssemblyInfo.cs
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csproj.CoreCompileInputs.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\staticwebassets\MarvelComicsStore.StaticWebAssets.Manifest.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\staticwebassets\MarvelComicsStore.StaticWebAssets.xml
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\scopedcss\bundle\MarvelComicsStore.styles.css
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.RazorTargetAssemblyInfo.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csproj.CopyComplete
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\ref\MarvelComicsStore.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.genruntimeconfig.cache

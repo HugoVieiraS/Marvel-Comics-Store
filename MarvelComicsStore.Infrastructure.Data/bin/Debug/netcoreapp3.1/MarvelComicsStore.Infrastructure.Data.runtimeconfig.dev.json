@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hugov\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hugov\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "01GNfQrf9nfFrR81uSXgVZVi7f25BthLSSMA5+BWKN7EQ/DLzLUIf1updo+YlhUBhoXduG6UNLcmjxLW2I/Gjg==",
+  "success": true,
+  "projectFilePath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.ApiCaller\\MarvelComicsStore.Infrastructure.ApiCaller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugov\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

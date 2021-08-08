@@ -1,0 +1,483 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore\\MarvelComicsStore.csproj": {}
+  },
+  "projects": {
+    "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Common\\MarvelComicsStore.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Common\\MarvelComicsStore.Common.csproj",
+        "projectName": "MarvelComicsStore.Common",
+        "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Common\\MarvelComicsStore.Common.csproj",
+        "packagesPath": "C:\\Users\\hugov\\.nuget\\packages\\",
+        "outputPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hugov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj",
+        "projectName": "MarvelComicsStore.Domain",
+        "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\hugov\\.nuget\\packages\\",
+        "outputPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hugov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.ApiCaller\\MarvelComicsStore.Infrastructure.ApiCaller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.ApiCaller\\MarvelComicsStore.Infrastructure.ApiCaller.csproj",
+        "projectName": "MarvelComicsStore.Infrastructure.ApiCaller",
+        "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.ApiCaller\\MarvelComicsStore.Infrastructure.ApiCaller.csproj",
+        "packagesPath": "C:\\Users\\hugov\\.nuget\\packages\\",
+        "outputPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.ApiCaller\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hugov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Common\\MarvelComicsStore.Common.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Common\\MarvelComicsStore.Common.csproj"
+              },
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Data\\MarvelComicsStore.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Data\\MarvelComicsStore.Infrastructure.Data.csproj",
+        "projectName": "MarvelComicsStore.Infrastructure.Data",
+        "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Data\\MarvelComicsStore.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\hugov\\.nuget\\packages\\",
+        "outputPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hugov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Ioc\\MarvelComicsStore.Infrastructure.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Ioc\\MarvelComicsStore.Infrastructure.Ioc.csproj",
+        "projectName": "MarvelComicsStore.Infrastructure.Ioc",
+        "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Ioc\\MarvelComicsStore.Infrastructure.Ioc.csproj",
+        "packagesPath": "C:\\Users\\hugov\\.nuget\\packages\\",
+        "outputPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hugov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj"
+              },
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.ApiCaller\\MarvelComicsStore.Infrastructure.ApiCaller.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.ApiCaller\\MarvelComicsStore.Infrastructure.ApiCaller.csproj"
+              },
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Data\\MarvelComicsStore.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Data\\MarvelComicsStore.Infrastructure.Data.csproj"
+              },
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Service\\MarvelComicsStore.Service.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Service\\MarvelComicsStore.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Service\\MarvelComicsStore.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Service\\MarvelComicsStore.Service.csproj",
+        "projectName": "MarvelComicsStore.Service",
+        "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Service\\MarvelComicsStore.Service.csproj",
+        "packagesPath": "C:\\Users\\hugov\\.nuget\\packages\\",
+        "outputPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hugov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj"
+              },
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.ApiCaller\\MarvelComicsStore.Infrastructure.ApiCaller.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.ApiCaller\\MarvelComicsStore.Infrastructure.ApiCaller.csproj"
+              },
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Data\\MarvelComicsStore.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Data\\MarvelComicsStore.Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore\\MarvelComicsStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore\\MarvelComicsStore.csproj",
+        "projectName": "MarvelComicsStore",
+        "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore\\MarvelComicsStore.csproj",
+        "packagesPath": "C:\\Users\\hugov\\.nuget\\packages\\",
+        "outputPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hugov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Domain\\MarvelComicsStore.Domain.csproj"
+              },
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Ioc\\MarvelComicsStore.Infrastructure.Ioc.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Infrastructure.Ioc\\MarvelComicsStore.Infrastructure.Ioc.csproj"
+              },
+              "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Service\\MarvelComicsStore.Service.csproj": {
+                "projectPath": "C:\\Vitor\\Crmall\\MarvelComicsStore.Api\\MarvelComicsStore.Service\\MarvelComicsStore.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

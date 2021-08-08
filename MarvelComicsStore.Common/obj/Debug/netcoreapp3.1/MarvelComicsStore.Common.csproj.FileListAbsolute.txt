@@ -1,0 +1,18 @@
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\bin\Debug\netcoreapp3.1\MarvelComicsStore.Common.deps.json
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\bin\Debug\netcoreapp3.1\MarvelComicsStore.Common.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\bin\Debug\netcoreapp3.1\MarvelComicsStore.Common.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\obj\Debug\netcoreapp3.1\MarvelComicsStore.Common.csprojAssemblyReference.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\obj\Debug\netcoreapp3.1\MarvelComicsStore.Common.AssemblyInfoInputs.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\obj\Debug\netcoreapp3.1\MarvelComicsStore.Common.AssemblyInfo.cs
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\obj\Debug\netcoreapp3.1\MarvelComicsStore.Common.csproj.CoreCompileInputs.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\obj\Debug\netcoreapp3.1\MarvelComicsStore.Common.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\obj\Debug\netcoreapp3.1\MarvelComicsStore.Common.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\bin\Debug\netcoreapp3.1\MarvelComicsStore.Common.deps.json
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\bin\Debug\netcoreapp3.1\MarvelComicsStore.Common.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\bin\Debug\netcoreapp3.1\MarvelComicsStore.Common.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\obj\Debug\netcoreapp3.1\MarvelComicsStore.Common.csprojAssemblyReference.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\obj\Debug\netcoreapp3.1\MarvelComicsStore.Common.AssemblyInfoInputs.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\obj\Debug\netcoreapp3.1\MarvelComicsStore.Common.AssemblyInfo.cs
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\obj\Debug\netcoreapp3.1\MarvelComicsStore.Common.csproj.CoreCompileInputs.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\obj\Debug\netcoreapp3.1\MarvelComicsStore.Common.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Common\obj\Debug\netcoreapp3.1\MarvelComicsStore.Common.pdb

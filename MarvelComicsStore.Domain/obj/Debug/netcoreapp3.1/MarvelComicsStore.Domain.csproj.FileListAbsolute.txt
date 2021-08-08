@@ -1,0 +1,26 @@
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.deps.json
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.dll
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.pdb
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.csprojAssemblyReference.cache
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.AssemblyInfoInputs.cache
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.AssemblyInfo.cs
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.csproj.CoreCompileInputs.cache
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.dll
+C:\Vitor\Teste Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.deps.json
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.pdb
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.AssemblyInfoInputs.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.AssemblyInfo.cs
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.csproj.CoreCompileInputs.cache
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.dll
+C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.deps.json
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\bin\Debug\netcoreapp3.1\MarvelComicsStore.Domain.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.csprojAssemblyReference.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.AssemblyInfoInputs.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.AssemblyInfo.cs
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.csproj.CoreCompileInputs.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Domain\obj\Debug\netcoreapp3.1\MarvelComicsStore.Domain.pdb
