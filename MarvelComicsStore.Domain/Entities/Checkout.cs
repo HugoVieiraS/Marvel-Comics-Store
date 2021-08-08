@@ -9,6 +9,6 @@ namespace MarvelComicsStore.Domain.Entities
         public string Coupon { get; set; }
         public double TotalPrice { get; set; }
         public double TotalDiscount { get; set; }
-        public IList<Item> PurchasedItems { get; set; }
+        public virtual IList<PurchasedItem> PurchasedItems { get; set; }
     }
 }

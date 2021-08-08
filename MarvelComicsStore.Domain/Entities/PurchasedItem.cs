@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace MarvelComicsStore.Domain.Entities
@@ -8,7 +9,8 @@ namespace MarvelComicsStore.Domain.Entities
     {
         public string Title { get; set; }
         public int Unity { get; set; }
-        public double Price { get; set; }
-        public int IdCheckout { get; set; }
+        public decimal Price { get; set; }
+        public bool Rare { get; set; }
+        public virtual Checkout Checkout { get; set; }
     }
 }

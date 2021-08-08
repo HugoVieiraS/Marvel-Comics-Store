@@ -1,9 +1,8 @@
 ﻿using MarvelComicsStore.Domain.Interface;
 using MarvelComicsStore.Infrastructure.Data.Context;
 using Microsoft.EntityFrameworkCore;
-using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace MarvelComicsStore.Infrastructure.Data.Repository
@@ -22,33 +21,33 @@ namespace MarvelComicsStore.Infrastructure.Data.Repository
         #endregion
 
         #region Methods
-        public async Task<IList<TEntity>> GetAllAsync()
+        public IEnumerable<TEntity> GetAll() 
         {
-            return await _mySqlContext.Set<TEntity>().ToListAsync();
+            return _mySqlContext.Set<TEntity>().ToList(); ;
+        } 
+        
+        public TEntity Get(int id)
+        {
+            return _mySqlContext.Find<TEntity>(id); ;
         }
 
-        public async Task<TEntity> GetAsync(int id)
-        {
-            return await _mySqlContext.FindAsync<TEntity>(id);
-        }
-
-        public async Task InsertAsync(params TEntity[] obj)
+        public void Insert(params TEntity[] obj)
         {
             _mySqlContext.Set<TEntity>().AddRange(obj);
-            await _mySqlContext.SaveChangesAsync();
+            _mySqlContext.SaveChanges();
         }
 
-        public async Task RemoveAsync(params TEntity[] obj)
+        public void Remove(params TEntity[] obj)
         {
             _mySqlContext.Set<TEntity>().RemoveRange(obj);
-            await _mySqlContext.SaveChangesAsync();
+            _mySqlContext.SaveChanges();
         }
 
-        public async Task UpdateChangesAsync(TEntity obj)
+        public void UpdateChanges(TEntity obj)
         {
             _mySqlContext.Entry(obj).State = EntityState.Modified;
             _mySqlContext.Set<TEntity>().UpdateRange(obj);
-            await _mySqlContext.SaveChangesAsync();
+            _mySqlContext.SaveChanges();
         }
         #endregion
     }

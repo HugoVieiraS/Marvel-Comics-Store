@@ -1,4 +1,5 @@
 ﻿using MarvelComicsStore.Domain.Entities;
+using MarvelComicsStore.Domain.ViewModel;
 using System.Collections.Generic;
 
 namespace MarvelComicsStore.Service.Mapper
@@ -19,7 +20,9 @@ namespace MarvelComicsStore.Service.Mapper
                         VariantDescription = comic.variantDescription,
                         Description = comic.description,
                         DiamondCode = comic.diamondCode,
-                        PageCount = comic.pageCount
+                        PageCount = comic.pageCount,
+                        Prices = comic.prices,
+                        Images = comic.images
                     });
             }
             return comicsViewModel;

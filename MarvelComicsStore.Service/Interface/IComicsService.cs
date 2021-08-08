@@ -1,7 +1,4 @@
-﻿using MarvelComicsStore.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using MarvelComicsStore.Domain.ViewModel;
 
 namespace MarvelComicsStore.Service.Interface
 {

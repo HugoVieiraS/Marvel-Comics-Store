@@ -77,6 +77,12 @@ C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0
 C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\ref\MarvelComicsStore.dll
 C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.pdb
 C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.genruntimeconfig.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csprojAssemblyReference.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.AssemblyInfoInputs.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.AssemblyInfo.cs
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csproj.CoreCompileInputs.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.MvcApplicationPartsAssemblyInfo.cache
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\appsettings.Development.json
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\appsettings.json
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.exe
@@ -87,8 +93,10 @@ C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelC
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\ref\MarvelComicsStore.dll
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.pdb
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\AutoMapper.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Humanizer.dll
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
@@ -111,13 +119,7 @@ C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelC
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Common.pdb
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.ApiCaller.pdb
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\bin\Debug\net5.0\MarvelComicsStore.Infrastructure.Data.pdb
-C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csprojAssemblyReference.cache
-C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.AssemblyInfoInputs.cache
-C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.AssemblyInfo.cs
-C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.csproj.CoreCompileInputs.cache
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.MvcApplicationPartsAssemblyInfo.cs
-C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\MarvelComicsStore.MvcApplicationPartsAssemblyInfo.cache
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\staticwebassets\MarvelComicsStore.StaticWebAssets.Manifest.cache
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\staticwebassets\MarvelComicsStore.StaticWebAssets.xml
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore\obj\Debug\net5.0\scopedcss\bundle\MarvelComicsStore.styles.css

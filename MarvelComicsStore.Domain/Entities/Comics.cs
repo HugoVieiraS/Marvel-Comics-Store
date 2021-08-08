@@ -114,6 +114,7 @@ namespace MarvelComicsStore.Domain.Entities
 
     public class Item
     {
+        public int Id { get; set; }
         public string resourceURI { get; set; }
         public string name { get; set; }
         public string role { get; set; }

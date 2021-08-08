@@ -1,8 +1,8 @@
-﻿using System;
+﻿using MarvelComicsStore.Domain.Entities;
+using System;
 using System.Collections.Generic;
-using System.Text;
 
-namespace MarvelComicsStore.Domain.Entities
+namespace MarvelComicsStore.Domain.ViewModel
 {
     public class ComicsViewModel
     {
@@ -14,6 +14,9 @@ namespace MarvelComicsStore.Domain.Entities
         public string Description { get; set; }
         public DateTime Modified { get; set; }
         public string DiamondCode { get; set; }
-        public virtual int PageCount { get; set; }
+        public int PageCount { get; set; }
+        public bool Rare { get; set; }
+        public List<Price> Prices { get; set; }
+        public IList<Image> Images { get; set; }
     }
 }

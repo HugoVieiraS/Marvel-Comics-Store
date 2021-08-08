@@ -18,6 +18,8 @@ namespace MarvelComicsStore.Infrastructure.Data.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<Checkout>()
                .Property(x => x.TotalDiscount)
                .HasPrecision(10, 2);
@@ -25,6 +27,10 @@ namespace MarvelComicsStore.Infrastructure.Data.Context
             modelBuilder.Entity<Checkout>()
                .Property(x => x.TotalPrice)
                .HasPrecision(10, 2);
+
+            modelBuilder.Entity<PurchasedItem>()
+               .Property(x => x.Id)
+               .HasMaxLength(80);
 
             modelBuilder.Entity<PurchasedItem>()
                 .Property(x => x.Title)
@@ -38,6 +44,10 @@ namespace MarvelComicsStore.Infrastructure.Data.Context
             modelBuilder.Entity<Checkout>()
                 .HasData(
                 new Checkout { Id = 1, Coupon = string.Empty, TotalDiscount = 0, TotalPrice = 0 });
+
+            //modelBuilder.Entity<PurchasedItem>()
+            //   .HasData(
+            //   new PurchasedItem { Id = 1, Title = "Teste", Price = 4.25, Unity = 1, Checkout = new Checkout { Id = 1} });
         }
     }
 }

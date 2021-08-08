@@ -1,5 +1,5 @@
-﻿using MarvelComicsStore.Domain.Entities;
-using MarvelComicsStore.Domain.Interface;
+﻿using MarvelComicsStore.Domain.Interface;
+using MarvelComicsStore.Domain.ViewModel;
 using MarvelComicsStore.Service.Interface;
 using MarvelComicsStore.Service.Mapper;
 using System;
