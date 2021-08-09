@@ -1,11 +1,7 @@
 ﻿using MarvelComicsStore.Domain.ViewModel;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using MarvelComicsStore.Service.Interface.Base;
 
 namespace MarvelComicsStore.Service.Interface
 {
-    public interface ICheckoutService : IService<CheckoutViewModel>
-    {
-    }
+    public interface ICheckoutService : IService<CheckoutViewModel> { }
 }

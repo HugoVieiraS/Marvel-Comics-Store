@@ -1,8 +1,6 @@
-﻿using MarvelComicsStore.Domain.Entities;
-using MarvelComicsStore.Service.Interface;
+﻿using MarvelComicsStore.Service.Interface;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
 
 
 namespace MarvelComicsStore.Controllers

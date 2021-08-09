@@ -46,7 +46,7 @@ namespace MarvelComicsStore.Service.Services
             throw new NotImplementedException(MESSAGE_ERROR);
         }
 
-        public void Remove(int? id)
+        public void Remove(int id)
         {
             throw new NotImplementedException(MESSAGE_ERROR);
         }

@@ -18,10 +18,6 @@ C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.I
 C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.csproj.CopyComplete
 C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.dll
 C:\Vitor\Projeto Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.pdb
-C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.csprojAssemblyReference.cache
-C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.AssemblyInfoInputs.cache
-C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.AssemblyInfo.cs
-C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.csproj.CoreCompileInputs.cache
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.deps.json
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.dll
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.pdb
@@ -35,6 +31,10 @@ C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\bin\D
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Data.pdb
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\MarvelComicsStore.Service.pdb
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\MarvelComicsStore.Common.pdb
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.csprojAssemblyReference.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.AssemblyInfoInputs.cache
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.AssemblyInfo.cs
+C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.csproj.CoreCompileInputs.cache
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.csproj.CopyComplete
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.dll
 C:\Vitor\Crmall\MarvelComicsStore.Api\MarvelComicsStore.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\MarvelComicsStore.Infrastructure.Ioc.pdb

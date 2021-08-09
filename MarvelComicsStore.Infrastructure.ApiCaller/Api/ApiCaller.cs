@@ -28,8 +28,6 @@ namespace MarvelComicsStore.Infrastructure.ApiCaller.Api
             using var client = new HttpClient(handler) { BaseAddress = new Uri(BASE_ADRESS) };
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-            //client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("APIKEY", GetAuthentication(PRIVATE_KEY, PUBLIC_KEY));
-
             var result = await client.GetAsync($"{controller}{ GetAuthentication(PRIVATE_KEY, PUBLIC_KEY) }");
 
             var resultContent = await result.Content.ReadAsStringAsync();

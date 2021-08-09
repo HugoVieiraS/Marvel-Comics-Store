@@ -1,7 +1,4 @@
-﻿using MarvelComicsStore.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace MarvelComicsStore.Domain.ViewModel
 {
@@ -9,8 +6,8 @@ namespace MarvelComicsStore.Domain.ViewModel
     {
         public int Id { get; set; }
         public string Coupon { get; set; }
-        public double TotalPrice { get; set; }
-        public double TotalDiscount { get; set; }
-        public virtual IList<PurchasedItem> PurchasedItems { get; set; }
+        public decimal TotalPrice { get; set; }
+        public decimal TotalDiscount { get; set; }
+        public List<PurcharsedItemViewModel> PurchasedItems { get; set; }
     }
 }

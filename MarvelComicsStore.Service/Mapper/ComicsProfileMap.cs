@@ -6,6 +6,7 @@ namespace MarvelComicsStore.Service.Mapper
 {
     public static class ComicsProfileMap
     {
+        #region Methods
         public static IEnumerable<ComicsViewModel> ComicsToViewModel(Comics comics)
         {
             var comicsViewModel = new List<ComicsViewModel>();
@@ -27,5 +28,6 @@ namespace MarvelComicsStore.Service.Mapper
             }
             return comicsViewModel;
         }
+        #endregion
     }
 }

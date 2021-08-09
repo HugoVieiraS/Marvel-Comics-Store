@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.Runtime.Serialization;
-using System.Text;
 
-namespace MarvelComicsStore.Domain.Entities
+namespace MarvelComicsStore.Domain.Entities.Base
 {
     [DataContract]
     public abstract class BaseModel
     {
-        [DataMember]
         [Key]
+        [DataMember]
         public int Id { get; set; }
     }
 }

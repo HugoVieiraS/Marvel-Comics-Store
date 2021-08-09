@@ -1,11 +1,7 @@
 ﻿using MarvelComicsStore.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using MarvelComicsStore.Domain.Interface.Base;
 
 namespace MarvelComicsStore.Domain.Interface
 {
-    public interface IComicsRepository : IRepository<Comics>
-    {
-    }
+    public interface IComicsRepository : IBaseRepositoryApi<Comics> { }
 }

@@ -6,7 +6,7 @@ namespace MarvelComicsStore.Common.StringExtensionMethods
 {
     public static class StringExtension
     {
-        #region PrivateMethods
+        #region Methods
         public static string GetTimestamp(DateTime dateTime)
         {
             return dateTime.ToString("yyyyMMddHHmmssffff");

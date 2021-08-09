@@ -1,14 +1,13 @@
-﻿using System;
+﻿using MarvelComicsStore.Domain.Entities.Base;
 using System.Collections.Generic;
-using System.Text;
 
 namespace MarvelComicsStore.Domain.Entities
 {
     public class Checkout : BaseModel
     {
         public string Coupon { get; set; }
-        public double TotalPrice { get; set; }
-        public double TotalDiscount { get; set; }
+        public decimal TotalPrice { get; set; }
+        public decimal TotalDiscount { get; set; }
         public virtual IList<PurchasedItem> PurchasedItems { get; set; }
     }
 }

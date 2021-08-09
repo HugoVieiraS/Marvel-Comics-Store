@@ -1,5 +1,6 @@
 ﻿using MarvelComicsStore.Domain.Entities;
 using MarvelComicsStore.Domain.Interface;
+using MarvelComicsStore.Domain.Interface.Base;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -8,7 +9,7 @@ namespace MarvelComicsStore.Infrastructure.Data.Repository
     public class CheckoutRepository : ICheckoutRepository
     {
         #region Fields
-        private IBaseRepository<Checkout> _baseRepository;
+        private readonly IBaseRepository<Checkout> _baseRepository;
         #endregion
 
         #region Constructor
@@ -29,9 +30,9 @@ namespace MarvelComicsStore.Infrastructure.Data.Repository
             return _baseRepository.Get(id);
         }
 
-        public void Insert(params Checkout[] obj)
+        public Checkout[] Insert(params Checkout[] obj)
         {
-            _baseRepository.Insert(obj);
+            return _baseRepository.Insert(obj);
         }
 
         public void Remove(params Checkout[] obj)

@@ -5,11 +5,11 @@ using System.Text;
 
 namespace MarvelComicsStore.Infrastructure.ApiCaller.Repository
 {
-    public class RepositoryBase
+    public class BaseRepositoryApi
     {
         protected IApiCaller ApiCaller;
 
-        protected RepositoryBase(IApiCaller apiCaller)
+        protected BaseRepositoryApi(IApiCaller apiCaller)
         {
             ApiCaller = apiCaller;
         }

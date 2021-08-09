@@ -1,9 +1,8 @@
-﻿using MarvelComicsStore.Domain.Interface;
+﻿using MarvelComicsStore.Domain.Interface.Base;
 using MarvelComicsStore.Infrastructure.Data.Context;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace MarvelComicsStore.Infrastructure.Data.Repository
 {
@@ -23,18 +22,19 @@ namespace MarvelComicsStore.Infrastructure.Data.Repository
         #region Methods
         public IEnumerable<TEntity> GetAll() 
         {
-            return _mySqlContext.Set<TEntity>().ToList(); ;
+            return _mySqlContext.Set<TEntity>().ToList();
         } 
         
         public TEntity Get(int id)
         {
-            return _mySqlContext.Find<TEntity>(id); ;
+            return _mySqlContext.Find<TEntity>(id);
         }
 
-        public void Insert(params TEntity[] obj)
+        public TEntity[] Insert(params TEntity[] obj)
         {
             _mySqlContext.Set<TEntity>().AddRange(obj);
             _mySqlContext.SaveChanges();
+            return obj;
         }
 
         public void Remove(params TEntity[] obj)

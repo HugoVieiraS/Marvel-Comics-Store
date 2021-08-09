@@ -17,6 +17,6 @@ namespace MarvelComicsStore.Domain.ViewModel
         public int PageCount { get; set; }
         public bool Rare { get; set; }
         public List<Price> Prices { get; set; }
-        public IList<Image> Images { get; set; }
+        public List<Image> Images { get; set; }
     }
 }

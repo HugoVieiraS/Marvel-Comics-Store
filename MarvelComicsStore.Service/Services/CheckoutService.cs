@@ -1,11 +1,10 @@
-﻿using MarvelComicsStore.Domain.Entities;
-using MarvelComicsStore.Domain.Interface;
+﻿using MarvelComicsStore.Domain.Interface;
 using MarvelComicsStore.Domain.ViewModel;
+using MarvelComicsStore.Service.Business;
 using MarvelComicsStore.Service.Interface;
 using MarvelComicsStore.Service.Mapper;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace MarvelComicsStore.Service.Services
 {
@@ -28,28 +27,27 @@ namespace MarvelComicsStore.Service.Services
         public CheckoutViewModel Get(int id)
         {
             var checkout = _checkoutRepository.Get(id);
-            var items = _itemsRepository.GetAll();
-
-            checkout.PurchasedItems = items != null
-                ? items.Where(x => x.Checkout == checkout).ToList()
-                : null;
-
-            return checkout.ComicsToViewModel();
+            checkout.PurchasedItems = _itemsRepository.GetItemsAtCheckout(checkout.Id);
+            return checkout.CheckoutToViewModel();
         }
 
         public IEnumerable<CheckoutViewModel> GetAll()
         {
-            return _checkoutRepository.GetAll().ComicsToViewModel();
+            var checkout = _checkoutRepository.GetAll();        
+            return checkout.CheckoutToViewModel();
         }
 
         public void Insert(CheckoutViewModel model)
         {
-            throw new NotImplementedException();
+            var checkout = model.ViewModelToCheckout();
+            checkout.TotalPrice = Calculator.TotalPrice(checkout);
+            _checkoutRepository.Insert(checkout);
         }
 
-        public void Remove(int? id)
+        public void Remove(int id)
         {
-            throw new NotImplementedException();
+            var checkout = _checkoutRepository.Get(id);
+            _checkoutRepository.Remove(checkout);
         }
 
         public void Update(CheckoutViewModel model)

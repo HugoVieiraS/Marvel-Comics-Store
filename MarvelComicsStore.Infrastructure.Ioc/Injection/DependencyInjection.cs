@@ -1,5 +1,6 @@
 ﻿using MarvelComicsStore.Domain.Entities;
 using MarvelComicsStore.Domain.Interface;
+using MarvelComicsStore.Domain.Interface.Base;
 using MarvelComicsStore.Infrastructure.ApiCaller.Interface;
 using MarvelComicsStore.Infrastructure.ApiCaller.Repository;
 using MarvelComicsStore.Infrastructure.Data.Context;
