@@ -27,12 +27,12 @@
 - [x] Endpoint Get para listagem dos quadrinhos marvel.
 - [x] Endpoint Get para os detalhes do quadrinho.
 - [x] Fluxo do checkout (CRUD).
-- [x] Calculo envolvendo os itens e seus cupons de desconto.
+- [x] Cálculo envolvendo os quadrinhos e seus cupons de desconto.
 
 #### Extras desenvolvidos :
 
 - [x] Código de desconto no checkout.
-- [x] Tipos de cupons: Cupons raros e cupons comuns. Cupons comuns dão desconto somente para quadrinhos comuns enquanto raros podem ser usados em qualquer tipo.
+- [x] Tipos de cupons: Cupons raros e cupons comuns.
 
 #### Observação
 - [x] Todos os endpoint disponibilizados podem ser testados via swagger da aplicação.
