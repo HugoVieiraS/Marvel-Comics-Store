@@ -18,7 +18,6 @@
 
 #### Diretrizes:
 
-- [x] Utilizar qualquer framework/biblioteca em C#.
 - [x] Utilizar Mysql ou Oracle como banco de dados.
 - [x] Consumir api da marvel https://developer.marvel.com.
 - [x] Salvar as informações do Checkout na banco de dados.
