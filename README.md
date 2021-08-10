@@ -25,9 +25,10 @@
 
 #### Features realizadas
 
-- [x] Rest para listagem dos quadrinhos marvel 
-- [x] Rest para os detalhes do quadrinho
-- [x] Fluxo do checkout 
+- [x] Endpoint Get para listagem dos quadrinhos marvel.
+- [x] Endpoint Get para os detalhes do quadrinho.
+- [x] Fluxo do checkout (CRUD).
+- [x] Calculo envolvendo os itens e seus cupons de desconto.
 
 #### Extras desenvolvidos :
 
