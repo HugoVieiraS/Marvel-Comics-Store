@@ -37,15 +37,7 @@ namespace MarvelComicsStore.Infrastructure.ApiCaller.Api
             }
             else
             {
-                if (result.StatusCode == HttpStatusCode.InternalServerError && string.IsNullOrWhiteSpace(resultContent))
-                {
-                    if (!_alreadyTried)
-                    {
-                        _alreadyTried = true;
-                        return await CallWebApiByGet<T>(controller);
-                    }
-                }
-                else if (result.StatusCode == HttpStatusCode.BadRequest)
+                if(result.StatusCode == HttpStatusCode.BadRequest)
                 {
                     throw new HttpRequestException($"{ resultContent.RemoveQuotes() }");
                 }

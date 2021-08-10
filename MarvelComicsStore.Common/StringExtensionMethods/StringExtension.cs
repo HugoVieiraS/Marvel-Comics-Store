@@ -23,19 +23,13 @@ namespace MarvelComicsStore.Common.StringExtensionMethods
         public static string RemoveQuotes(this string value)
         {
             if (string.IsNullOrWhiteSpace(value))
-            {
                 return value;
-            }
 
             if (value.StartsWith("\""))
-            {
                 value = value.Remove(0, 1);
-            }
 
             if (value.EndsWith("\""))
-            {
                 value = value.Remove(value.Length - 1);
-            }
 
             return value;
         }

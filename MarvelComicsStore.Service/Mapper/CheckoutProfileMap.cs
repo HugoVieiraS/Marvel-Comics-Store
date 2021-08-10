@@ -16,9 +16,8 @@ namespace MarvelComicsStore.Service.Mapper
                 {
                     Id = checkout.Id,
                     Coupon = checkout.Coupon,
-                    TotalDiscount = checkout.TotalDiscount,
                     TotalPrice = checkout.TotalPrice,
-                    PurchasedItems = PurcharsedItemProfileMap.ComicsToViewModel(checkout.PurchasedItems),
+                    PurchasedItems = PurcharsedItemProfileMap.PurcharsedToViewModel(checkout.PurchasedItems),
                 });
             }
             return checkoutViewModel;
@@ -30,9 +29,8 @@ namespace MarvelComicsStore.Service.Mapper
             {
                 Id = checkout.Id,
                 Coupon = checkout.Coupon,
-                TotalDiscount = checkout.TotalDiscount,
                 TotalPrice = checkout.TotalPrice,
-                PurchasedItems = PurcharsedItemProfileMap.ComicsToViewModel(checkout.PurchasedItems),
+                PurchasedItems = PurcharsedItemProfileMap.PurcharsedToViewModel(checkout.PurchasedItems),
             };
         }
 
@@ -42,7 +40,6 @@ namespace MarvelComicsStore.Service.Mapper
             {
                 Id = checkoutView.Id,
                 Coupon = checkoutView.Coupon,
-                TotalDiscount = checkoutView.TotalDiscount,
                 TotalPrice = checkoutView.TotalPrice,
                 PurchasedItems = PurcharsedItemProfileMap.ViewModelToPurcharsedItem(checkoutView.PurchasedItems),
             };

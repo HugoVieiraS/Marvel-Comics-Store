@@ -56,5 +56,14 @@ namespace MarvelComicsStore.Service.Services
             throw new NotImplementedException(MESSAGE_ERROR);
         }
         #endregion;
+
+        #region Private Methods
+        private static void GetRareComics(IEnumerable<ComicsViewModel> comics)
+        {
+            var countRareComics = decimal.ToInt16(comics.Count() * 0.1m);
+            Random random = new Random();
+            var comicsRare = comics.OrderBy(x => random.Next()).Take(countRareComics);
+        }
+        #endregion
     }
 }

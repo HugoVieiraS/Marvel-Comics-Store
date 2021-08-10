@@ -3,7 +3,6 @@ using MarvelComicsStore.Service.Interface;
 using Microsoft.AspNetCore.Mvc;
 using System;
 
-
 namespace MarvelComicsStore.Controllers
 {
     [Route("api/[controller]")]

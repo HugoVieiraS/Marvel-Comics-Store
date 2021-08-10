@@ -33,7 +33,7 @@ namespace MarvelComicsStore.Service.Services
 
         public IEnumerable<CheckoutViewModel> GetAll()
         {
-            var checkout = _checkoutRepository.GetAll();        
+            var checkout = _checkoutRepository.GetAll();
             return checkout.CheckoutToViewModel();
         }
 
@@ -52,7 +52,19 @@ namespace MarvelComicsStore.Service.Services
 
         public void Update(CheckoutViewModel model)
         {
-            throw new NotImplementedException();
+            var checkout = model.ViewModelToCheckout();
+            checkout.TotalPrice = Calculator.TotalPrice(checkout);
+            _checkoutRepository.UpdateChanges(checkout);
+            foreach (var item in checkout.PurchasedItems)
+            {
+                var itemBase = _itemsRepository.Get(item.Id);
+                if (itemBase == null)
+                {
+                    _itemsRepository.Insert(item);
+                    return;
+                }
+                _itemsRepository.UpdateChanges(item);
+            }
         }
         #endregion
     }

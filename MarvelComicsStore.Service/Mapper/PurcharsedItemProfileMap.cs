@@ -8,7 +8,7 @@ namespace MarvelComicsStore.Service.Mapper
     public static class PurcharsedItemProfileMap
     {
         #region Methods
-        public static List<PurcharsedItemViewModel> ComicsToViewModel(IList<PurchasedItem> purchasedItems)
+        public static List<PurcharsedItemViewModel> PurcharsedToViewModel(IList<PurchasedItem> purchasedItems)
         {
             if (purchasedItems == null)
                 return null;
@@ -30,7 +30,7 @@ namespace MarvelComicsStore.Service.Mapper
             return itemsViewModel;
         }
 
-        public static List<PurchasedItem> ViewModelToPurcharsedItem(List<PurcharsedItemViewModel> purchasedItems)
+        public static List<PurchasedItem> ViewModelToPurcharsedItem(IList<PurcharsedItemViewModel> purchasedItems)
         {
             if (purchasedItems == null)
                 return null;

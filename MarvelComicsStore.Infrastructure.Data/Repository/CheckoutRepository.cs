@@ -2,7 +2,6 @@
 using MarvelComicsStore.Domain.Interface;
 using MarvelComicsStore.Domain.Interface.Base;
 using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace MarvelComicsStore.Infrastructure.Data.Repository
 {

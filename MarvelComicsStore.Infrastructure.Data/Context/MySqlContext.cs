@@ -1,25 +1,23 @@
 ﻿using MarvelComicsStore.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace MarvelComicsStore.Infrastructure.Data.Context
 {
     public class MySqlContext : DbContext
     {
+        #region Properties
         public DbSet<Checkout> Checkout { get; set; }
         public DbSet<PurchasedItem> PurchasedItem { get; set; }
+        #endregion
 
+        #region Constructor
         public MySqlContext(DbContextOptions<MySqlContext> options) : base(options) { }
+        #endregion
 
+        #region Methods
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-
-            modelBuilder.Entity<Checkout>()
-               .Property(x => x.TotalDiscount)
-               .HasPrecision(10, 2);
 
             modelBuilder.Entity<Checkout>()
                .Property(x => x.TotalPrice)
@@ -39,11 +37,12 @@ namespace MarvelComicsStore.Infrastructure.Data.Context
 
             modelBuilder.Entity<Checkout>()
                 .HasData(
-                new Checkout { Id = 1, Coupon = string.Empty, TotalDiscount = 0, TotalPrice = 0 });
+                new Checkout { Id = 1, Coupon = "R00002", TotalPrice = 4.25m });
 
             modelBuilder.Entity<PurchasedItem>()
                .HasData(
                new PurchasedItem { Id = 1, Title = "Teste", Price = 4.25m, Unity = 1, CheckoutId = 1 });
         }
+        #endregion
     }
 }

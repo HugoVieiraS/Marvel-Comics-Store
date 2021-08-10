@@ -7,7 +7,7 @@ namespace MarvelComicsStore.Service.Mapper
     public static class ComicsProfileMap
     {
         #region Methods
-        public static IEnumerable<ComicsViewModel> ComicsToViewModel(Comics comics)
+        public static IEnumerable<ComicsViewModel> ComicsToViewModel(this Comics comics)
         {
             var comicsViewModel = new List<ComicsViewModel>();
             foreach (var comic in comics.data.results)

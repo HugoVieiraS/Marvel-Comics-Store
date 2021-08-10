@@ -5,43 +5,50 @@ namespace MarvelComicsStore.Service.Business
 {
     public static class Calculator
     {
-        #region Fields
-        private const decimal RARE_COUPON = 0.3m;
-        private const decimal COMMON_CUPON = 0.15m;
+        #region Constants
+        private const string COUPON_RARE = "R";
+        private const string COUPON_COMMON = "C";
+        private const decimal RARE_COUPON_DISCOUNT = 0.3m;
+        private const decimal COMMON_CUPON_DISCOUNT = 0.15m;
         #endregion
 
         #region Methods
         public static decimal TotalPrice(Checkout checkout)
         {
-            if (!string.IsNullOrWhiteSpace(checkout.Coupon))
-                checkout = CalculateDescount(checkout);
+            if (!string.IsNullOrWhiteSpace(checkout.Coupon) && Coupon.ValidateCoupon(checkout.Coupon))
+                checkout = CalculateCoupounDiscounts(checkout);
 
             return checkout.PurchasedItems.Sum(x => x.Price);
         }
 
-        // Multiplicar a unidade x preço, para a partir dai fazer o desconto do cupom
-        // Devolver o valor de desconto para salvar no checkout
-        // Criar mock para validar os cupons
-        private static Checkout CalculateDescount(Checkout checkout)
-        {       
-            if (checkout.Coupon.Substring(0,1) == "R")
+        private static Checkout CalculateCoupounDiscounts(Checkout checkout)
+        {
+            if (checkout.Coupon.Substring(0, 1) == COUPON_RARE)
             {
-                foreach (var item in checkout.PurchasedItems.Where(x => x.Rare == true))
+                foreach (var item in checkout.PurchasedItems)
                 {
-                    item.Price = decimal.Subtract(item.Price, decimal.Multiply(item.Price, RARE_COUPON));
+                    item.Price = CalculateDiscounts(item, RARE_COUPON_DISCOUNT);
                 }
             }
 
-            if (checkout.Coupon.Substring(0, 1) == "C")
+            if (checkout.Coupon.Substring(0, 1) == COUPON_COMMON)
             {
                 foreach (var item in checkout.PurchasedItems.Where(x => x.Rare == false))
                 {
-                    item.Price = decimal.Subtract(item.Price, decimal.Multiply(item.Price, COMMON_CUPON));
+                    item.Price = CalculateDiscounts(item, COMMON_CUPON_DISCOUNT);
                 }
             }
 
             return checkout;
         }
+
+        private static decimal CalculateDiscounts(PurchasedItem item, decimal discount)
+        {
+            if (item.Unity > 1)
+                item.Price *= item.Unity;
+
+            return decimal.Subtract(item.Price, decimal.Multiply(item.Price, discount));
+        }    
         #endregion
     }
 }

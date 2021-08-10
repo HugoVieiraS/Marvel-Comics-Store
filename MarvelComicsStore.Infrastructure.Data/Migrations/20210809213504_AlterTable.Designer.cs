@@ -2,14 +2,16 @@
 using MarvelComicsStore.Infrastructure.Data.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace MarvelComicsStore.Infrastructure.Data.Migrations
 {
     [DbContext(typeof(MySqlContext))]
-    partial class MySqlContextModelSnapshot : ModelSnapshot
+    [Migration("20210809213504_AlterTable")]
+    partial class AlterTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -32,14 +34,6 @@ namespace MarvelComicsStore.Infrastructure.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Checkout");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Coupon = "R00002",
-                            TotalPrice = 4.25m
-                        });
                 });
 
             modelBuilder.Entity("MarvelComicsStore.Domain.Entities.PurchasedItem", b =>
@@ -71,17 +65,6 @@ namespace MarvelComicsStore.Infrastructure.Data.Migrations
                     b.HasIndex("CheckoutId");
 
                     b.ToTable("PurchasedItem");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            CheckoutId = 1,
-                            Price = 4.25m,
-                            Rare = false,
-                            Title = "Teste",
-                            Unity = 1
-                        });
                 });
 
             modelBuilder.Entity("MarvelComicsStore.Domain.Entities.PurchasedItem", b =>
