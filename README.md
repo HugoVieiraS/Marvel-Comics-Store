@@ -35,7 +35,7 @@
 - [x] Tipos de cupons: Cupons raros e cupons comuns. Cupons comuns dão desconto somente para quadrinhos comuns enquanto raros podem ser usados em qualquer tipo.
 
 #### Observação
-- [x] Todos os endpoints disponibilizados podem ser testados via swagger da aplicação.
+- [x] Todos os endpoint disponibilizados podem ser testados via swagger da aplicação.
 
 #### Rodando a aplicação
 
