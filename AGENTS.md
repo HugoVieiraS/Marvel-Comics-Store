@@ -3,12 +3,11 @@
 ## Cursor Cloud specific instructions
 
 ### Overview
-Marvel Comics Store is a .NET 5.0 ASP.NET Core Web API for a comic book store. It consumes the Marvel Developer API for comic listings and persists checkout data to MySQL via Entity Framework Core. See `README.md` for the Portuguese-language project description.
+Marvel Comics Store is a .NET 8.0 ASP.NET Core Web API for a comic book store. It consumes the Marvel Developer API for comic listings and persists checkout data to MySQL via Entity Framework Core. See `README.md` for the Portuguese-language project description.
 
 ### System dependencies (pre-installed in snapshot)
-- **.NET 5.0 SDK** (5.0.408) installed at `/usr/share/dotnet`; `DOTNET_ROOT` and `PATH` set in `~/.bashrc`.
-- **dotnet-ef** global tool (5.0.8) installed at `~/.dotnet/tools`.
-- **libssl1.1** required for .NET 5.0 on Ubuntu 24.04 (OpenSSL 3.x ships by default; .NET 5.0 needs 1.1).
+- **.NET 8.0 SDK** (8.0.x) installed at `/usr/share/dotnet`; `DOTNET_ROOT` and `PATH` set in `~/.bashrc`.
+- **dotnet-ef** global tool (8.0.x) installed at `~/.dotnet/tools`.
 - **MySQL 8.0** installed via apt. Root password: `root` (matches `appsettings.json`).
 
 ### Starting MySQL
@@ -44,4 +43,4 @@ dotnet build MarvelComicsStore.WebApi.sln
 - The `/api/Comics` endpoint calls the external Marvel API (`gateway.marvel.com`). This may fail in sandboxed environments without outbound internet. The Checkout CRUD endpoints are fully local (MySQL).
 - The project has no automated test suite.
 - The project has no linter configuration.
-- Pre-existing build warnings about `Microsoft.EntityFrameworkCore.Relational` version conflicts are benign.
+- The single remaining build warning (`CS8632` in `IntExtensions.cs`) about nullable annotations is pre-existing and benign.
